@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Tricia Van Laar',
+    title: 'Portfolio of Arielle Names',
     description: '',
     imageURL: '',
   },
@@ -74,15 +74,27 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://tvanlaar.github.io',
-    phone: '',
-    email: 'tvanlaar@csustan.edu',
+    website: 'https://ariellenames.github.io',
+    phone: '209-541-6849',
+    email: 'anames@csustan.edu',
   },
   resume: {
     fileUrl:
       'https://github.com/tvanlaar/gitprofile/raw/main/VanLaarCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
+    'Genome Assembly',
+    'Sequencing Analysis',
+    'Gram Stain',
+    'Serial Dilution',
+    'NMR Spectroscopy',
+    'IR Spectroscopy',
+    'Thin-layer Chromatography',
+    'Column Chromatography',
+    'Streaking for Microbial Isolation',
+    'Aseptic Techniques',
+    'Fractional Distillation',
+    'Recrystallization',
     'PHP',
     'Laravel',
     'JavaScript',
@@ -124,16 +136,16 @@ const CONFIG = {
   ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'California State University, Stanislaus',
+      degree: 'Post-baccalaureate Studies',
+      from: '2025',
+      to: 'present',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'University of Oregon',
+      degree: 'Bachelors of Science in Environmental Studies and Art',
+      from: '2016',
+      to: '2021',
     },
   ],
   publications: [
