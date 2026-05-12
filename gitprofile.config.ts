@@ -33,20 +33,21 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Draft Genome Sequences of Three Bacteria with Antimicrobial Activity Isolated From Pond
+Sediment on a University Campus',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Research paper accepted for publishing in Microbiology Research Announcements',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/ariellenames/ariellenames.github.io/raw/main/genome_sequencing2.jpg',
+          link: '',
         },
         {
-          title: 'Project Name',
+          title: 'TBD: Isolation of Herbicide-Degrading Bacteria from Soil',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Research in progess',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/ariellenames/ariellenames.github.io/raw/main/BioLynceus-LLC-Soil-Bioremediation-1080x628.jpg',
+          link: '',
         },
       ],
     },
