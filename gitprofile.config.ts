@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/tvanlaar/gitprofile/raw/main/VanLaarCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/ariellenames/ariellenames.github.io/raw/main/ArielleNames_CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Genome Assembly',
